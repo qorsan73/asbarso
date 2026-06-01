@@ -6,6 +6,16 @@
 
 Monitoring Telegram account activity
 
+# What does this tool do?
+
+* This tool collects information about a person on Telegram, including when they are online and when they log out. The scan is performed automatically every 20 seconds.
+
+# Operating systems: 
+
+* 1- KALI LINUX
+* 2- Termux
+* 3- Windows
+
 # Installation
 
 ```
