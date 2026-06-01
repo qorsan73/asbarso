@@ -30,3 +30,10 @@ python3 telebot.py
 
 * 2 - Then stick them in the terminal.
 <img width="1920" height="1080" alt="Screenshot_2026-06-01_21_01_18" src="https://github.com/user-attachments/assets/390c5605-fbe4-4848-89ce-0f4768fda2e9" />
+
+* 3 - Create a bot on Telegram using @BotFather , copy the bot's token, and paste it into the terminal.
+* 4 - Go to the @User_iinfobot bot, copy the ID, and paste it into the terminal to make the bot your own.
+<img width="1920" height="1080" alt="Screenshot_2026-06-01_22_52_04" src="https://github.com/user-attachments/assets/5a73f6ab-bd29-46fa-ac2a-646e3974b120" />
+
+* 5 - Enter the phone number associated with the ID API and Hash API, and you will receive a Telegram registration code. Copy and paste it into the terminal.
+* 
