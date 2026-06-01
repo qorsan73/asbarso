@@ -36,4 +36,5 @@ python3 telebot.py
 <img width="1920" height="1080" alt="Screenshot_2026-06-01_22_52_04" src="https://github.com/user-attachments/assets/5a73f6ab-bd29-46fa-ac2a-646e3974b120" />
 
 * 5 - Enter the phone number associated with the ID API and Hash API, and you will receive a Telegram registration code. Copy and paste it into the terminal.
-* 
+<img width="1280" height="720" alt="photo_2026-06-02_00-38-54" src="https://github.com/user-attachments/assets/d8f6858c-fbb6-4a75-b7ba-62a31668b3b2" />
+
