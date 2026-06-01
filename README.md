@@ -5,3 +5,20 @@
 ![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 
 Monitoring Telegram account activity
+
+# Installation
+
+```
+pip install telethon
+```
+```
+git clone https://github.com/qorsan73/asbarso.git
+```
+```
+cd asbarso
+```
+```
+python3 telebot.py
+```
+
+# Operation method
