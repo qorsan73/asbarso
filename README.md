@@ -38,3 +38,16 @@ python3 telebot.py
 * 5 - Enter the phone number associated with the ID API and Hash API, and you will receive a Telegram registration code. Copy and paste it into the terminal.
 <img width="1280" height="720" alt="photo_2026-06-02_00-38-54" src="https://github.com/user-attachments/assets/d8f6858c-fbb6-4a75-b7ba-62a31668b3b2" />
 
+# Steps after operation :
+
+* Log in to the bot :
+1 - run Bot : /start
+2 - stop Bot : /stop
+
+# NOTE 
+
+* This tool is for educational purposes only, and its misuse will subject you to legal consequences. I am not responsible for any misuse.
+
+# To contact the developer:
+
+* telegram : qorsantaez73
