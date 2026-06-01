@@ -21,6 +21,8 @@ cd asbarso
 python3 telebot.py
 ```
 
+<img width="1920" height="1080" alt="Screenshot_2026-06-01_20_49_49" src="https://github.com/user-attachments/assets/49cab97f-4aac-4ae7-977a-96344e58c1d9" />
+
 # Operation method
 
 * After completing the installation, you will be asked to enter the API ID. To obtain it, you must log in to this website --> https://my.telegram.org Copy the API ID and API hash.
