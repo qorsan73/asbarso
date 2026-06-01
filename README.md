@@ -24,3 +24,4 @@ python3 telebot.py
 # Operation method
 
 * After completing the installation, you will be asked to enter the API ID. To obtain it, you must log in to this website --> https://my.telegram.org Copy the API ID and API hash.
+<img width="1280" height="669" alt="photo_2026-06-01_20-43-17" src="https://github.com/user-attachments/assets/f0388d38-08fb-46bb-8f4d-e25256f421c6" />
