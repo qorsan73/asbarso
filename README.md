@@ -1,15 +1,7 @@
 # asbarso
-```ansi
-[92m====================================================================
- █████  ███████ ██████   █████  ██████  ███████  ██████  
-██   ██ ██      ██   ██ ██   ██ ██   ██ ██      ██    ██ 
-███████ ███████ ██████  ███████ ██████  ███████ ██    ██ 
-██   ██      ██ ██   ██ ██   ██ ██   ██      ██ ██    ██ 
-██   ██ ███████ ██████  ██   ██ ██   ██ ███████  ██████  
-                                                             
-    [0m>> [96mCoded by:[0m Qorsan taez
-    >> [96mGITHUB:[0m https://github.com/qorsan73
-    >> [96mObjective:[0m Real-Time Cyber Presence Tracking
-[92m====================================================================[0m
-```
+
+![Developer](https://img.shields.io/badge/Developer-Qorsan__taez-brightgreen?style=for-the-badge&logo=telegram)
+![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
+![Framework](https://img.shields.io/badge/Framework-Telethon-cyan?style=for-the-badge)
+
 Monitoring Telegram account activity
